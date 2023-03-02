@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import './singleprod.css'
 import img1
-    from '../img/kisspng-computer-cases-housings-computer-hardware-person-liquid-viper-custom-pc-dubai-pc-components-dis-5bae97c361cb95.1342021115381687714006.png'
+    from '../img/kisss.png'
 import React from 'react';
 
 const Prod = () => {
