@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-prc1.github.io/static/css/main.bfb23883.css",
-    "main.js": "/react-prc1.github.io/static/js/main.f5be3747.js",
-    "static/js/787.b4d87f07.chunk.js": "/react-prc1.github.io/static/js/787.b4d87f07.chunk.js",
-    "static/media/pngegg.png": "/react-prc1.github.io/static/media/pngegg.290a1588950ef8be4f10.png",
-    "static/media/kisss.png": "/react-prc1.github.io/static/media/kisss.74cc44c781225d79bcbb.png",
-    "static/media/pngegg1.png": "/react-prc1.github.io/static/media/pngegg1.a0b9f0be87b01e24dd4b.png",
-    "static/media/img.png": "/react-prc1.github.io/static/media/img.29f31bb55c99581c9460.png",
-    "static/media/wide_pic.jpg": "/react-prc1.github.io/static/media/wide_pic.2b63179912f0c3ab6a46.jpg",
-    "index.html": "/react-prc1.github.io/index.html",
-    "main.bfb23883.css.map": "/react-prc1.github.io/static/css/main.bfb23883.css.map",
-    "main.f5be3747.js.map": "/react-prc1.github.io/static/js/main.f5be3747.js.map",
-    "787.b4d87f07.chunk.js.map": "/react-prc1.github.io/static/js/787.b4d87f07.chunk.js.map"
+    "main.css": "/static/css/main.f3d978a8.css",
+    "main.js": "/static/js/main.fc1438fa.js",
+    "static/js/787.b4d87f07.chunk.js": "/static/js/787.b4d87f07.chunk.js",
+    "static/media/pngegg.png": "/static/media/pngegg.290a1588950ef8be4f10.png",
+    "static/media/kisss.png": "/static/media/kisss.74cc44c781225d79bcbb.png",
+    "static/media/pngegg1.png": "/static/media/pngegg1.a0b9f0be87b01e24dd4b.png",
+    "static/media/img.png": "/static/media/img.29f31bb55c99581c9460.png",
+    "static/media/wide_pic.jpg": "/static/media/wide_pic.2b63179912f0c3ab6a46.jpg",
+    "index.html": "/index.html",
+    "main.f3d978a8.css.map": "/static/css/main.f3d978a8.css.map",
+    "main.fc1438fa.js.map": "/static/js/main.fc1438fa.js.map",
+    "787.b4d87f07.chunk.js.map": "/static/js/787.b4d87f07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfb23883.css",
-    "static/js/main.f5be3747.js"
+    "static/css/main.f3d978a8.css",
+    "static/js/main.fc1438fa.js"
   ]
 }
